@@ -36,7 +36,7 @@ export default function Form() {
   }
   function handleSubmit(event) {
     event.preventDefault();
-    console.log(memeImage);
+    // console.log(memeImage);
     memeImage.topText !== "" &&
       // changeMeme(
       setmemeImage((prevState) => ({

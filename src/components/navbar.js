@@ -6,7 +6,7 @@ export default function Navbar() {
       <nav className="navbar">
         <img src={logo} alt="logo" />
         <h2>MemeGenerator</h2>
-        <h4>5th Project</h4>
+        <h4>Generate Memes In One Click</h4>
       </nav>
     </header>
   );
